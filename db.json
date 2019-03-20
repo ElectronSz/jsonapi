@@ -1,7 +1,11 @@
 {
-      data : [
-      {'id':1, 'name':"Lwazi Dlamini", 'amount': 3450.90},
-      {'id':2, 'name':"Faith Mabila", 'amount': 23.90},
-      {'id':3, 'name':"Jame Masala", 'amount': 475.55},
-  ]
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
